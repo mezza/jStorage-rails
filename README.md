@@ -11,6 +11,10 @@ And then execute:
 
     $ bundle
 
+Don't forget to modify your application.js file
+
+    //= require jstorage
+
 ## Dependencies
 
 - Rails >= 3.1
